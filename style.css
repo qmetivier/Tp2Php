@@ -1,0 +1,41 @@
+.title{
+	text-align: center;
+}
+
+.identification{
+	margin-left: 30px;
+	background-color: lightgreen;
+	width: 300px;
+	margin: 0 auto;
+
+}
+
+.element{
+	background-color: lightsalmon;
+	width: 250px;
+	padding: 10px 0px;
+	padding-left: 20px;
+	margin-left: 20px;
+}
+
+.error{
+	text-align: center;
+}
+
+label{
+	width: 150px;
+	display: inline-block;
+}
+
+.Send{
+	text-align: center;
+	padding-top: -10px;
+}
+
+.echo{
+	color: white;
+	border:2px solid black;
+	text-align: center;
+	background-color: red;
+	width: 500px;
+}
